@@ -1,0 +1,26 @@
+# Python environments and generated Python files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints and local notebook state
+.ipynb_checkpoints/
+
+# Downloaded datasets, caches, and experiment artefacts
+*.arff
+*.csv
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.h5
+*.keras
+checkpoints/
+models/
+outputs/
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
